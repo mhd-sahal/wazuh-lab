@@ -1,4 +1,4 @@
-# Day 1 — Wazuh Server Setup
+# Wazuh Server Setup
 
 ## Objective
 
