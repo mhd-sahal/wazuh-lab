@@ -52,7 +52,7 @@ The lab consists of three virtual machines running in VMware.
 
 | #  | Documentation                                        | 
 | -- | ---------------------------------------------------- | 
-| 01 | [Wazuh Server Setup](setup/01-wazuh-server-setup.md) | 
+| 01 | [Wazuh Server Setup](setup/wazuh-server-setup.md) | 
 
 ### Investigations
 
