@@ -53,6 +53,7 @@ The lab consists of three virtual machines running in VMware.
 | #  | Documentation                                        | 
 | -- | ---------------------------------------------------- | 
 | 01 | [Wazuh Server Setup](setup/wazuh-server-setup.md) | 
+| 02 | [Endpoint Agent Setup](setup/endpoint-agent-setup.md) | 
 
 ### Investigations
 
