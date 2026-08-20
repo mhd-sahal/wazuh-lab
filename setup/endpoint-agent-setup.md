@@ -28,7 +28,7 @@ The Wazuh Agent was installed and configured to communicate with the Wazuh Serve
 
 After configuration, the Ubuntu endpoint was verified through the Wazuh Dashboard.
 
-![Ubuntu Agent](../screenshots/endpoints/ubuntu-agent.png)
+![Ubuntu Agent](../screenshots/endpoints/ubuntu-agent.png.png)
 
 ---
 
@@ -40,7 +40,7 @@ The Wazuh Agent was installed and configured to communicate with the Wazuh Serve
 
 The Windows endpoint was then verified through the Wazuh Dashboard.
 
-![Windows Agent](../screenshots/endpoints/windows-agent.png)
+![Windows Agent](../screenshots/endpoints/windows-agent.png.png)
 
 ---
 
