@@ -55,6 +55,7 @@ The lab consists of three virtual machines running in VMware.
 | 01 | [Wazuh Server Setup](setup/wazuh-server-setup.md) | 
 | 02 | [Endpoint Agent Setup](setup/endpoint-agent-setup.md) | 
 | 03 | [SOC Dashboard](setup/dashboard.md) | 
+| 04 | [FIM & Custom Detection](setup/FIM-and-custom-detection.md) | 
 
 ### Investigations
 
