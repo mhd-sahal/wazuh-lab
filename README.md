@@ -56,6 +56,7 @@ The lab consists of three virtual machines running in VMware.
 | 02 | [Endpoint Agent Setup](setup/endpoint-agent-setup.md) | 
 | 03 | [SOC Dashboard](setup/dashboard.md) | 
 | 04 | [FIM & Custom Detection](setup/FIM-and-custom-detection.md) | 
+| 05 | [Active Response & SSH Brute-Force Detection](setup/active-response.md) | 
 
 ### Investigations
 
